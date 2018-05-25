@@ -14,7 +14,8 @@ This is a POC to get familiar with Blynk.
 - turn lights on/off with eventor timer
 - added manual buttons for: light, fan, water
 - added history graph
-![BlynkSS](https://github.com/joe-speedboat/blynk.WeGrow/blob/master/Screenshot_20180525-101539.png)
+![BlynkSS1](https://github.com/joe-speedboat/blynk.WeGrow/blob/master/Screenshot_20180525-101539.png)
+![BlynkSS2](https://github.com/joe-speedboat/blynk.WeGrow/blob/master/Screenshot_20180525-102956.png)
 
 
 ## Hardware I use:
